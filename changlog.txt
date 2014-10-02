@@ -1,5 +1,0 @@
-897cd34 diplay copyright
-ce0ac94 Add file header
-c952db7 Rename gitignore
-40439bf Add build time
-4c1394f inital Commit
