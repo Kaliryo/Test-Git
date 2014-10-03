@@ -1,6 +1,7 @@
 ### application.bat - 201x - Ewen ROBIN ###
 
 version = "2"
+
 build_tour = "12h00"
 
 echo"Build${build_hour}
